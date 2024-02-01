@@ -1,0 +1,64 @@
+Statistic,Column,Value
+Count,total_deal_quantity,8088.0
+Sum,total_deal_quantity,2677902.0
+Mean,total_deal_quantity,331.09569732937683
+Median,total_deal_quantity,150.0
+Min,total_deal_quantity,0.0
+Max,total_deal_quantity,25085.0
+Std,total_deal_quantity,761.8226273774792
+Q1,total_deal_quantity,100.0
+Q3,total_deal_quantity,300.0
+Count,amount_in_company_currency,8087.0
+Sum,amount_in_company_currency,21446328.96
+Mean,amount_in_company_currency,2651.9511512303698
+Median,amount_in_company_currency,1556.0
+Min,amount_in_company_currency,-62.5
+Max,amount_in_company_currency,151035.11
+Std,amount_in_company_currency,4406.867598089315
+Q1,amount_in_company_currency,966.72
+Q3,amount_in_company_currency,2826.5950000000003
+Count,number_of_associated_contacts,8088.0
+Sum,number_of_associated_contacts,16127.0
+Mean,number_of_associated_contacts,1.9939416419386746
+Median,number_of_associated_contacts,2.0
+Min,number_of_associated_contacts,0.0
+Max,number_of_associated_contacts,8.0
+Std,number_of_associated_contacts,0.9409880610464573
+Q1,number_of_associated_contacts,1.0
+Q3,number_of_associated_contacts,2.0
+Count,total_intl_product_quantity,8088.0
+Sum,total_intl_product_quantity,29070.0
+Mean,total_intl_product_quantity,3.594213649851632
+Median,total_intl_product_quantity,0.0
+Min,total_intl_product_quantity,0.0
+Max,total_intl_product_quantity,3000.0
+Std,total_intl_product_quantity,64.5401825895257
+Q1,total_intl_product_quantity,0.0
+Q3,total_intl_product_quantity,0.0
+Count,Total SKU DZ on PO,8088.0
+Sum,Total SKU DZ on PO,227614.0
+Mean,Total SKU DZ on PO,28.142185954500494
+Median,Total SKU DZ on PO,13.0
+Min,Total SKU DZ on PO,1.0
+Max,Total SKU DZ on PO,2097.0
+Std,Total SKU DZ on PO,63.6695908816445
+Q1,Total SKU DZ on PO,9.0
+Q3,Total SKU DZ on PO,27.0
+Count,cost_per_sku,8047.0
+Sum,cost_per_sku,19837.739999999998
+Mean,cost_per_sku,2.4652342487883683
+Median,cost_per_sku,2.41
+Min,cost_per_sku,1.2
+Max,cost_per_sku,4.18
+Std,cost_per_sku,0.46488184486431405
+Q1,cost_per_sku,2.23
+Q3,cost_per_sku,2.58
+Count,total_sku_cost,8088.0
+Sum,total_sku_cost,6000102.84
+Mean,total_sku_cost,741.8524777448071
+Median,total_sku_cost,418.32
+Min,total_sku_cost,0.0
+Max,total_sku_cost,43086.72
+Std,total_sku_cost,1266.7434054757864
+Q1,total_sku_cost,294.36
+Q3,total_sku_cost,766.5
