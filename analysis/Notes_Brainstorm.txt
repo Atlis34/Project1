@@ -1,0 +1,54 @@
+
+Group by : Client type
+Count company currency and total_deal_quantity average order size
+
+average order size/average cost for both client types.
+
+mean median mode standard deviation.
+
+What products are each client ordering.
+
+Average margin - revenue - cost - by client type
+Average margin - revenue - cost - by Product type
+
+Group by chassis.
+
+GB : Business_Type
+
+Only
+
+
+Group by list :
+
+Client Type 
+Deal Type
+Chassis
+vendor_id
+month
+design_difficulty
+deal_source
+automation_tools
+
+
+
+Summary stat list :
+
+Company currency 
+total_deal_quantity
+total_sku_cost
+
+
+total revenue/total sku cost = margin
+
+
+
+Mode Code :
+
+       # Calculate mode for each group
+        mode_series = grouped_full_df[column].apply(lambda x: stats.mode(x)[0][0] if isinstance(stats.mode(x)[0], np.ndarray) and len(stats.mode(x)[0]) > 0 and not np.isnan(stats.mode(x)[0][0]) else None)
+        grouped_summary_df['mode'] = mode_series
+
+
+lambda -  # lambda x: x.quantile(0.25), lambda x: x.quantile(0.75)]
+
+
