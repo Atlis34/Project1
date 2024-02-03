@@ -1,64 +1,64 @@
 Statistic,Column,Value
-Count,total_deal_quantity,8751.0
-Sum,total_deal_quantity,2652360.0
-Mean,total_deal_quantity,303.0922180322249
+Count,total_deal_quantity,8750.0
+Sum,total_deal_quantity,2652000.0
+Mean,total_deal_quantity,303.0857142857143
 Median,total_deal_quantity,125.0
 Min,total_deal_quantity,0.0
 Max,total_deal_quantity,20135.0
-Std,total_deal_quantity,661.3164293463723
+Std,total_deal_quantity,661.3539422169093
 Q1,total_deal_quantity,65.0
 Q3,total_deal_quantity,300.0
 Count,amount_in_company_currency,8750.0
-Sum,amount_in_company_currency,23213320.404999997
-Mean,amount_in_company_currency,2652.950903428571
-Median,amount_in_company_currency,1527.62
-Min,amount_in_company_currency,-200.0
-Max,amount_in_company_currency,137620.0
-Std,amount_in_company_currency,4207.769515490063
-Q1,amount_in_company_currency,962.4
-Q3,amount_in_company_currency,2865.0
-Count,number_of_associated_contacts,8751.0
-Sum,number_of_associated_contacts,16502.0
-Mean,number_of_associated_contacts,1.8857273454462347
+Sum,amount_in_company_currency,37092608.54
+Mean,amount_in_company_currency,4239.155261714285
+Median,amount_in_company_currency,2786.175
+Min,amount_in_company_currency,710.87
+Max,amount_in_company_currency,151035.11
+Std,amount_in_company_currency,5506.768942340563
+Q1,amount_in_company_currency,1945.0
+Q3,amount_in_company_currency,4353.6975
+Count,number_of_associated_contacts,8750.0
+Sum,number_of_associated_contacts,16501.0
+Mean,number_of_associated_contacts,1.8858285714285714
 Median,number_of_associated_contacts,2.0
 Min,number_of_associated_contacts,0.0
 Max,number_of_associated_contacts,8.0
-Std,number_of_associated_contacts,0.878812662984796
+Std,number_of_associated_contacts,0.8788118637048744
 Q1,number_of_associated_contacts,1.0
 Q3,number_of_associated_contacts,2.0
-Count,total_intl_product_quantity,8751.0
+Count,total_intl_product_quantity,8750.0
 Sum,total_intl_product_quantity,220771.0
-Mean,total_intl_product_quantity,25.228088218489315
+Mean,total_intl_product_quantity,25.23097142857143
 Median,total_intl_product_quantity,0.0
 Min,total_intl_product_quantity,0.0
 Max,total_intl_product_quantity,50000.0
-Std,total_intl_product_quantity,587.6665961226801
+Std,total_intl_product_quantity,587.7001180519768
 Q1,total_intl_product_quantity,0.0
 Q3,total_intl_product_quantity,0.0
-Count,Total SKU DZ on PO,8751.0
-Sum,Total SKU DZ on PO,242064.0
-Mean,Total SKU DZ on PO,27.66129585190264
+Count,Total SKU DZ on PO,8750.0
+Sum,Total SKU DZ on PO,242034.0
+Mean,Total SKU DZ on PO,27.66102857142857
 Median,Total SKU DZ on PO,13.0
 Min,Total SKU DZ on PO,1.0
 Max,Total SKU DZ on PO,4167.0
-Std,Total SKU DZ on PO,73.06922594824148
+Std,Total SKU DZ on PO,73.07339741239488
 Q1,Total SKU DZ on PO,8.0
 Q3,Total SKU DZ on PO,26.0
-Count,cost_per_sku,8444.0
-Sum,cost_per_sku,20985.11
-Mean,cost_per_sku,2.485209616295595
+Count,cost_per_sku,8443.0
+Sum,cost_per_sku,20983.149999999998
+Mean,cost_per_sku,2.4852718228117965
 Median,cost_per_sku,2.54
 Min,cost_per_sku,1.27
 Max,cost_per_sku,3.88
-Std,cost_per_sku,0.4388100921012476
+Std,cost_per_sku,0.4387988455025307
 Q1,cost_per_sku,2.01
 Q3,cost_per_sku,2.83
-Count,total_sku_cost,8751.0
-Sum,total_sku_cost,6048635.88
-Mean,total_sku_cost,691.19367843675
-Median,total_sku_cost,376.2
-Min,total_sku_cost,0.0
-Max,total_sku_cost,30624.96
-Std,total_sku_cost,1138.1924537176199
-Q1,total_sku_cost,245.76
-Q3,total_sku_cost,729.12
+Count,total_sku_cost,8750.0
+Sum,total_sku_cost,9970265.280000001
+Mean,total_sku_cost,1139.4588891428573
+Median,total_sku_cost,729.12
+Min,total_sku_cost,203.76
+Max,total_sku_cost,43086.72
+Std,total_sku_cost,1548.664652702855
+Q1,total_sku_cost,520.56
+Q3,total_sku_cost,1243.56
