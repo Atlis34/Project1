@@ -678,7 +678,6 @@ deal_id,po_number,Create Date - Daily,Quantity,Amount in company currency,Client
 4019386888,18363,1/20/2021,60,630,Distributor,Existing Business,,Closed and Won,,Major (Other),Pre-Hubspot Contact,3,Medium 
 4634708033,18364,3/12/2021,150,1862.76,Direct,Existing Business,,Closed and Won,,,,1,
 4364621671,18365,2/25/2021,120,945.7,Distributor,New Business,,Closed and Won,,,,1,Low 
-4619599934,18366,3/11/2021,3,1.00E-14,Distributor,Existing Business,,Closed and Won,,,Client Referral,2,Not Rated
 4575173219,18367,3/8/2021,1200,7219,Distributor,Existing Business,,Closed and Won,,Minor (Color Changes),,2,Medium 
 4435468953,18368,3/1/2021,60,558,Distributor,New Business,,Closed and Won,,,,1,Medium 
 4617380096,18369,3/11/2021,60,630,Distributor,Existing Business,,Closed and Won,,,Client Referral,2,Not Rated
@@ -3475,7 +3474,6 @@ deal_id,po_number,Create Date - Daily,Quantity,Amount in company currency,Client
 6291912787,21368,9/24/2021,60,540,Distributor,Existing Business,,Closed and Won,,,Client Referral,2,Low 
 6259369602,21369,9/20/2021,4,341.83,Distributor,New Business,,Closed and Won,,,,2,High Res Preview
 6276496676,21370,9/22/2021,175,1837.5,Direct,New Business,,Closed and Won,Intake 2.0 Edward,,,2,Low 
-6312902183,21371,9/27/2021,605,-399.3,Distributor,Existing Business,,Closed and Won,Reorder Button,,Client Referral,3,
 6311974711,21372,9/27/2021,180,2428.2,Direct,Existing Business,,Closed and Won,Reorder Button,,,1,
 5829521555,21373,8/2/2021,70,630,Distributor,Existing Business,,Closed and Won,,,,4,Not Rated
 6277779474,21374,9/22/2021,200,2469.44,Direct,Existing Business,,Closed and Won,Reorder Button,,,2,
@@ -3988,7 +3986,6 @@ deal_id,po_number,Create Date - Daily,Quantity,Amount in company currency,Client
 6633561675,21892,10/15/2021,360,3240,Direct,Existing Business,,Closed and Won,,,,1,Not Rated
 6602506776,21893,10/12/2021,120,981.6,Distributor,Existing Business,,Closed and Won,,,Pre-Hubspot Contact,3,Low 
 6541541291,21894,10/6/2021,60,779.4,Direct,New Business,,Closed and Won,,,,2,High Res Preview
-6701508452,21895,10/19/2021,60,-1.00E-13,Direct,Existing Business,,Closed and Won,Reorder Button,,,1,
 6626039404,21896,10/14/2021,80,840,Distributor,Existing Business,,Closed and Won,,,Pre-Hubspot Contact,3,Not Rated
 6612853768,21897,10/13/2021,120,1200,Distributor,Existing Business,,Closed and Won,,,Pre-Hubspot Contact,2,Low 
 6687342673,21898,10/18/2021,60,630,Distributor,Existing Business,,Closed and Won,,,Offline Sources,1,Not Rated
@@ -9470,7 +9467,6 @@ deal_id,po_number,Create Date - Daily,Quantity,Amount in company currency,Client
 9273697032,27498,6/22/2022,576,4259.52,Wholesale,Existing Business,,Closed and Won,,,Event Longer Than 1 Year Ago,2,
 9275658637,27499,6/22/2022,250,2743.6,Direct,New Business,,Closed and Won,Intake 3.0,,Intake,2,High Res Preview
 8938029172,27500,5/17/2022,250,1832.5,Distributor,New Business,,Closed and Won,,,SAGE,1,Not Rated
-9276815122,27501,6/22/2022,120,1.00E-14,Direct,Existing Business,,Payment Pending,Reorder Button,,Organic Search,1,
 9177486727,27502,6/13/2022,60,581.4,Distributor,Existing Business,,Closed and Won,,,Event Longer Than 1 Year Ago,2,High Res Preview
 9275922448,27503,6/22/2022,0,175,Distributor,Existing Business,,Closed and Won,,,Client Referral,3,Low 
 8762035356,27504,4/29/2022,4,0,Distributor,Existing Business,,Closed and Won,,,Client Referral,1,Medium 
@@ -12672,7 +12668,6 @@ deal_id,po_number,Create Date - Daily,Quantity,Amount in company currency,Client
 10697764752,30793,10/26/2022,60,570,Distributor,Existing Business,,Closed and Won,,,Email Marketing,3,Low 
 10754083396,30794,10/31/2022,60,675.6,Distributor,Existing Business,,Closed and Won,,,Organic Search,1,High Res Preview
 10767769775,30795,11/1/2022,130,1141.4,Distributor,Existing Business,,Closed and Won,,,Event in the Past Year,2,Low 
-10810048092,30796,11/4/2022,60,-1.00E-13,Direct,New Business,,Closed and Won,,,Pre-Hubspot Contact,1,
 10358200841,30797,9/29/2022,360,2638.8,Distributor,Existing Business,,Closed and Won,,,SAGE,1,
 10529930057,30799,10/11/2022,2060,16753.55,Distributor,Existing Business,,Closed and Won,,,Client Referral,2,Low 
 10796637560,30800,11/3/2022,120,558.7,Distributor,Existing Business,,Closed and Won,,,SAGE,3,High Res Preview
@@ -14147,7 +14142,6 @@ deal_id,po_number,Create Date - Daily,Quantity,Amount in company currency,Client
 7535631535,32303,1/14/2022,60,693.6,Distributor,New Business,,Closed and Won,,,,3,Low 
 11145322574,32304,11/29/2022,150,1167,Distributor,Existing Business,,Closed and Won,,,Direct Traffic,2,High Res Preview
 11446351738,32305,12/22/2022,240,1764,Distributor,Existing Business,,Closed and Won,,,Client Referral,3,
-11446042650,32306,12/22/2022,250,-62.5,Distributor,Existing Business,,Closed and Won,,,WT Reorder,2,
 11446993821,32307,12/22/2022,120,1083.6,Wholesale,Existing Business,,Closed and Won,Reorder Button,,Email Marketing,1,
 11446928694,32308,12/22/2022,120,1125.6,Distributor,Existing Business,,Closed and Won,,,Client Referral,3,
 11344445184,32309,12/14/2022,150,1294.5,Distributor,Existing Business,,Closed and Won,,,Event Longer Than 1 Year Ago,6,High Res Preview
@@ -18617,7 +18611,6 @@ deal_id,po_number,Create Date - Daily,Quantity,Amount in company currency,Client
 13823060329,37429,6/22/2023,120,1520.4,Direct,Existing Business,,Closed and Won,Intake 4.0 Logged In,,Organic Search,2,Low 
 13437870160,37430,5/24/2023,160,1376,Distributor,Existing Business,,Closed and Won,,,Client Referral,1,High Res Preview
 13781788786,37431,6/19/2023,600,5400,Distributor,Existing Business,,Closed and Won,,,SAGE,2,
-13831251538,37432,6/23/2023,200,-200,Direct,New Business,,Closed and Won,,,,0,
 13504524553,37433,5/30/2023,501,2224.44,Distributor,New Business,,Closed and Won,,,Event in the Past Year,1,High Res Preview
 13868332867,37434,6/26/2023,500,3735,Wholesale,Existing Business,,Closed and Won,,,Organic Search,2,
 13619899035,37435,6/7/2023,120,1520.4,Direct,New Business,,Closed and Won,Intake 4.0 Logged In,,Referrals,1,Low 
@@ -20087,7 +20080,6 @@ deal_id,po_number,Create Date - Daily,Quantity,Amount in company currency,Client
 14866791093,38936,8/28/2023,225,2025,Distributor,Existing Business,,Closed and Won,,,Client Referral,1,Medium 
 14894370482,38937,8/30/2023,60,1020.39,Distributor,Existing Business,,Closed and Won,,,Client Referral,2,
 14883430153,38938,8/29/2023,30,416.7,Distributor,Existing Business,,Closed and Won,,,Pre-Hubspot Contact,4,
-14703915406,38939,8/17/2023,2,-27.06,Distributor,Existing Business,,Payment Pending,,,Event in the Past Year,1,Medium 
 14782546326,38940,8/22/2023,500,2345,Wholesale,New Business,,Closed and Won,,,Intake,1,Low 
 14896079002,38941,8/30/2023,500,3610,Distributor,Existing Business,,Closed and Won,,,Pre-Hubspot Contact,2,
 14575056762,38942,8/11/2023,60,962.4,Direct,Existing Business,,Closed and Won,Intake 4.0 Logged In,,Organic Search,1,High Res Preview
@@ -20547,7 +20539,6 @@ deal_id,po_number,Create Date - Daily,Quantity,Amount in company currency,Client
 14921151259,39410,8/31/2023,80,1352,Direct,New Business,,Closed and Won,3D Builder,,Organic Search,1,
 15125677732,39411,9/12/2023,120,1400.4,Direct,New Business,,Closed and Won,Intake 4.0 Logged In,,Direct Traffic,1,High Res Preview
 15156511821,39412,9/14/2023,200,1850,Distributor,Existing Business,,Closed and Won,,,Organic Search,1,Low 
-15157922861,39413,9/14/2023,30,1.00E-13,Distributor,New Business,,Payment Pending,,,LinkedIn,1,
 15158627926,39414,9/14/2023,1200,12209.43,Direct,Existing Business,,Payment Pending,Reorder Button,,Organic Search,2,
 15143302538,39415,9/13/2023,150,1122,Distributor,Existing Business,,Payment Pending,,,Event in the Past Year,3,Low 
 15156544068,39416,9/14/2023,60,688.2,Distributor,Existing Business,,Closed and Won,,,Email Marketing,4,Low 
@@ -20725,7 +20716,6 @@ deal_id,po_number,Create Date - Daily,Quantity,Amount in company currency,Client
 14834299433,39595,8/25/2023,125,1125,Distributor,Existing Business,,Closed and Won,3D Builder,,Pre-Hubspot Contact,1,
 15075214693,39596,9/8/2023,110,1261.7,Distributor,Existing Business,,Closed and Won,,,Pre-Hubspot Contact,2,Low 
 15238685952,39597,9/19/2023,120,1080,Distributor,Existing Business,,Closed and Won,,,Pre-Hubspot Contact,3,Low 
-15257211562,39598,9/20/2023,120,1.00E-14,Distributor,Existing Business,,Closed and Won,Reorder Button,,Pre-Hubspot Contact,3,
 15256804216,39599,9/20/2023,250,2015,Distributor,Existing Business,,Closed and Won,3D Builder,,Client Referral,3,
 15257374107,39600,9/20/2023,100,997,Distributor,Existing Business,,Closed and Won,Reorder Button,,Email Marketing,3,
 15257504353,39601,9/20/2023,100,997,Distributor,Existing Business,,Closed and Won,Reorder Button,,Email Marketing,1,
@@ -22978,7 +22968,6 @@ deal_id,po_number,Create Date - Daily,Quantity,Amount in company currency,Client
 16088007257,41945,11/16/2023,260,2095.6,Distributor,Existing Business,,Closed and Won,,,Event in the Past Year,3,High Res Preview
 16294090782,41946,11/29/2023,60,708.6,Distributor,Existing Business,,Payment Pending,,,Client Referral,2,Low 
 16361461414,41947,12/4/2023,2,0,Distributor,New Business,,Payment Pending,,,,1,
-16360201816,41948,12/4/2023,60,-94.8,Distributor,New Business,,Closed and Won,,,,1,
 16361490023,41949,12/4/2023,120,1063.2,Distributor,Existing Business,,Closed and Won,Reorder Button,,Direct Traffic,3,
 16361849473,41950,12/4/2023,120,1400.4,Direct,New Business,,Closed and Won,Portal Order,,Direct Traffic,1,
 16368015685,41951,12/5/2023,30,690.65,Direct,Existing Business,,Closed and Won,Portal Order,,Direct Traffic,1,
@@ -23502,7 +23491,6 @@ deal_id,po_number,Create Date - Daily,Quantity,Amount in company currency,Client
 16611327657,42674,12/20/2023,200,2925.6,Direct,New Business,,Closed and Won,Intake 4.0 Logged Out,,Direct Traffic,1,Low 
 16611716985,42677,12/20/2023,150,1764,Direct,Existing Business,,Closed and Won,,,Paid Search,1,High Res Preview
 15848707252,42678,10/30/2023,83,836.64,Distributor,Existing Business,,Payment Pending,,,Pre-Hubspot Contact,3,Low 
-16611625778,42679,12/20/2023,35,-1.00E-14,Distributor,Existing Business,,Payment Pending,,,Referrals,2,
 16614647172,42682,12/20/2023,2,193,Direct,New Business,,Closed and Won,Intake 4.0 Logged Out,,Direct Traffic,3,Low 
 16619291154,42685,12/21/2023,124,1116,Distributor,Existing Business,,Payment Pending,,,Email Marketing,2,Low 
 16495220225,42686,12/13/2023,250,2865,Direct,New Business,,Closed and Won,,,Direct Traffic,1,Low 
