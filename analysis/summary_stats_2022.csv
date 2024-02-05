@@ -44,15 +44,6 @@ Max,Total SKU DZ on PO,2097.0
 Std,Total SKU DZ on PO,63.68051411523021
 Q1,Total SKU DZ on PO,9.0
 Q3,Total SKU DZ on PO,27.0
-Count,total_intl_sku_cost,8085.0
-Sum,total_intl_sku_cost,31357.8
-Mean,total_intl_sku_cost,3.8785157699443413
-Median,total_intl_sku_cost,0.0
-Min,total_intl_sku_cost,0.0
-Max,total_intl_sku_cost,2648.0
-Std,total_intl_sku_cost,65.87862362212064
-Q1,total_intl_sku_cost,0.0
-Q3,total_intl_sku_cost,0.0
 Count,cost_per_sku,8044.0
 Sum,cost_per_sku,19868.41
 Mean,cost_per_sku,2.469966434609647
