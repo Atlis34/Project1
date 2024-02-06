@@ -1,27 +1,20 @@
-# Project1
-Project # 1
-prod_data will have duplicate POs and missing deal IDs
-deal_data will not
-We will want to merge on PO and associate the deal ID with each PO.
-"master_key" will be PO number
-"foregin_key" will be Deal ID
-We will want to create an index after we merge data -maybe?
-We will want to rename columns
-There are three different ways total units purchased quantities are named between the folders:
-    prod_data:
-        Total_SKU_on_PO
-        mfp_quantity
-    deal_data
-        quantity
+### Project1 - An Analysis of Revenue and Profitability from 2022 to 2023 a Company X ###
 
-Important_Variables we should consider
-    quantity
-    revenue
-    deal_type
-    business_type
-    cost
-    vendor_id
-    automation_tools
-    lead_source
-    sku or chassis
+# A project by Ahsun Asad, Katreece Hattaway, Krysta Sharp and Ryan MacFarlane #
+######  UTA-VIRT-DATA-PT-12-2023-U-LOLC-MTTH ######
+# January 25th, 2024 through February 6th, 2024 #  
+
+# Our input data files can be found in the data_resources folder of our GitHub repository #
+# Filenames are deal_summary_data.csv and prod_data.csv #
+
+# All code was written by the four team members - so no direct credit sourcing is needed, however
+# we did receive help and guidance from the Xpert Learning Assistant on the BCS website as well
+# as the ChatGPT chat-bot.
+
+# Slide show was built using Google Docs - slideshow.
+
+# All coding was done in Jupyter Notebooks using Visual Studio Code #
+
+# If you have any trouble accessing the repository - please email Ryan MacFarlane at 
+# atlis34@yahoo.com - Thank you for reading/grading!            
 
