@@ -1,0 +1,101 @@
+
+Group by : Client type
+Count company currency and total_deal_quantity average order size
+
+average order size/average cost for both client types.
+
+mean median mode standard deviation.
+
+What products are each client ordering.
+
+Average margin - revenue - cost - by client type
+Average margin - revenue - cost - by Product type
+
+Group by chassis.
+
+GB : Business_Type
+
+Only
+
+
+Group by list :
+
+Client Type 
+Deal Type
+Chassis
+vendor_id
+month
+design_difficulty
+deal_source
+automation_tools
+
+
+
+Summary stat list :
+
+Company currency 
+total_deal_quantity
+total_sku_cost
+
+
+total revenue/total sku cost = margin
+
+
+Additional cleaning - 2/3/2024 - starting with filtered_deal_prod_summary_data.csv - 16840 rows
+
+10 rows - eliminated for invalid or blank amount in company currency.
+
+
+total_international_
+
+COGS int SKU Cost Exact - total_intl_sku_cost
+
+
+
+Mode Code :
+
+       # Calculate mode for each group
+        mode_series = grouped_full_df[column].apply(lambda x: stats.mode(x)[0][0] if isinstance(stats.mode(x)[0], np.ndarray) and len(stats.mode(x)[0]) > 0 and not np.isnan(stats.mode(x)[0][0]) else None)
+        grouped_summary_df['mode'] = mode_series
+
+
+lambda -  # lambda x: x.quantile(0.25), lambda x: x.quantile(0.75)]
+
+
+
+Code from original Grouped Summary attempt - 2/1/2024.
+
+# Add a new column for gross margin
+filtered_deal_prod_summary_df["gross_margin"] = filtered_deal_prod_summary_df["amount_in_company_currency"] / filtered_deal_prod_summary_df["total_sku_cost"]
+
+
+# group by summary statistics
+group_by_columns = ["client_type_x", "deal_type_x", "chassis", "vendor_id", "design_difficulty", "deal_source_ca", "automation_tools", filtered_deal_prod_summary_df['submitted_to_prod'].dt.month]
+list_of_columns = ["total_amount_in_company_currency", "deal_quantity", "total_sku_cost", "gross_margin"]
+
+# Initialize an empty DataFrame to store the summary statistics
+concatenated_full_df = pd.DataFrame()
+
+# Nested for loop to perform group by and summary statistics
+for group_by_column in group_by_columns:
+    grouped_full_df = filtered_deal_prod_summary_df.groupby(group_by_column)
+    
+    for column in list_of_columns:
+        # Perform summary statistics on each column for each group
+        summary_functions = ['mean', 'max', 'min', 'sum', 'std']                                         
+        grouped_summary_df = grouped_full_df[column].agg(summary_functions).add_prefix(column + '_')
+      
+        # Concatenate the summary DataFrame with the previous ones
+        if concatenated_full_df.empty:
+            concatenated_full_df = grouped_summary_df
+        else:
+            concatenated_full_df = pd.concat([concatenated_full_df, grouped_summary_df], axis=1)
+
+# Save the merged DataFrame as a new CSV file
+concatenated_full_df.to_csv('grouped_summary_full_data.csv', index=False)
+
+# Print the first 5 records
+concatenated_full_df.head
+
+
+
