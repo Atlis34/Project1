@@ -5,7 +5,7 @@ Mean,total_deal_quantity,331.165367965368
 Median,total_deal_quantity,150.0
 Min,total_deal_quantity,0.0
 Max,total_deal_quantity,25085.0
-Std,total_deal_quantity,761.9538519014069
+Std,total_deal_quantity,761.9538519013896
 Q1,total_deal_quantity,100.0
 Q3,total_deal_quantity,300.0
 Count,amount_in_company_currency,8084.0
@@ -14,7 +14,7 @@ Mean,amount_in_company_currency,2652.9430306778822
 Median,amount_in_company_currency,1556.0
 Min,amount_in_company_currency,0.0
 Max,amount_in_company_currency,151035.11
-Std,amount_in_company_currency,4407.384395737984
+Std,amount_in_company_currency,4407.384395737975
 Q1,amount_in_company_currency,968.4300000000001
 Q3,amount_in_company_currency,2827.9700000000003
 Count,number_of_associated_contacts,8085.0
@@ -23,7 +23,7 @@ Mean,number_of_associated_contacts,1.9941867656153371
 Median,number_of_associated_contacts,2.0
 Min,number_of_associated_contacts,0.0
 Max,number_of_associated_contacts,8.0
-Std,number_of_associated_contacts,0.9410327568310178
+Std,number_of_associated_contacts,0.9410327568310796
 Q1,number_of_associated_contacts,1.0
 Q3,number_of_associated_contacts,2.0
 Count,total_intl_product_quantity,8085.0
@@ -32,7 +32,7 @@ Mean,total_intl_product_quantity,3.595547309833024
 Median,total_intl_product_quantity,0.0
 Min,total_intl_product_quantity,0.0
 Max,total_intl_product_quantity,3000.0
-Std,total_intl_product_quantity,64.55211987279843
+Std,total_intl_product_quantity,64.5521198727878
 Q1,total_intl_product_quantity,0.0
 Q3,total_intl_product_quantity,0.0
 Count,Total SKU DZ on PO,8085.0
@@ -41,7 +41,7 @@ Mean,Total SKU DZ on PO,28.14817563388992
 Median,Total SKU DZ on PO,13.0
 Min,Total SKU DZ on PO,1.0
 Max,Total SKU DZ on PO,2097.0
-Std,Total SKU DZ on PO,63.68051411523021
+Std,Total SKU DZ on PO,63.68051411522842
 Q1,Total SKU DZ on PO,9.0
 Q3,Total SKU DZ on PO,27.0
 Count,cost_per_sku,8044.0
@@ -50,7 +50,7 @@ Mean,cost_per_sku,2.469966434609647
 Median,cost_per_sku,2.41
 Min,cost_per_sku,1.2
 Max,cost_per_sku,4.18
-Std,cost_per_sku,0.468139567966677
+Std,cost_per_sku,0.4681395679666781
 Q1,cost_per_sku,2.23
 Q3,cost_per_sku,2.58
 Count,total_sku_cost,8085.0
@@ -59,6 +59,6 @@ Mean,total_sku_cost,745.868185528757
 Median,total_sku_cost,423.36
 Min,total_sku_cost,91.52
 Max,total_sku_cost,43086.72
-Std,total_sku_cost,1266.3939210210015
+Std,total_sku_cost,1266.393921021014
 Q1,total_sku_cost,294.36
 Q3,total_sku_cost,776.88
