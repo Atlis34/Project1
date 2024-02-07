@@ -12,6 +12,7 @@
 # as the ChatGPT chat-bot.
 
 # Slide show was built using Google Docs - slideshow.
+# Link to slideshow : https://docs.google.com/presentation/d/1eXyNuRJF8eSU9zYptvjlRp1GhMo8u5LjpMJQWFFLqtc/edit#slide=id.g2b6d93bcf93_0_7
 
 # All coding was done in Jupyter Notebooks using Visual Studio Code #
 
